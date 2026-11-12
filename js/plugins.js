@@ -26,5 +26,6 @@ var $plugins =
 {"name":"PictureAnimation","status":true,"description":"ピクチャのアニメーションプラグイン","parameters":{"最初のセルに戻る":"true"}},
 {"name":"MessageWindowHidden","status":true,"description":"メッセージウィンドウ一時消去プラグイン","parameters":{"triggerButton":"[\"右クリック\"]","triggerSwitch":"0","linkPictureNumbers":"[]","linkShowPictureNumbers":"[]","disableLinkSwitchId":"0","disableSwitchId":"0","disableInBattle":"false","disableInChoice":"true"}},
 {"name":"RecollectionTitle","status":true,"description":"타이틀에 회상 방 메뉴 추가","parameters":{"Command Name":"회상 방","Map ID":"35","X":"14","Y":"5"}},
-{"name":"iOSAudioFix","status":true,"description":"아이폰 사파리 사운드 수정","parameters":{}}
+{"name":"iOSAudioFix","status":true,"description":"아이폰 사파리 사운드 수정","parameters":{}},
+{"name":"AudioDebug","status":true,"description":"?debug 주소로 열면 사운드 진단 화면 표시","parameters":{}}
 ];
